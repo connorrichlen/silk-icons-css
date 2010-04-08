@@ -1,6 +1,6 @@
 ﻿.silk-icon 
 {
-    background-image:url('../silk-icons.png')%>); 
+    background-image:url('../silk-icons.png'); 
     background-repeat:no-repeat; height:16px; width:16px; overflow:hidden; margin:0 1px;
     display:-moz-inline-box;/*Firefox 2.x support*/ display:inline-block; vertical-align:middle;
  }
